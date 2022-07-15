@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It ran ok in the random 50000
+
+sort2 uses: MERGE SORT
+
+How do you know?: It ran fasted in the random 50000
+
+sort3 uses: SELECTION SORT
+
+How do you know?: It ran slowest in the random 50000
